@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-## 👋 Hi, I'm Pranav<br><br>💻 Aspiring developer focused on building practical, real-world projects  <br>🚀 Currently working on projects like a Fake News Detection System  <br>🧠 Interested in AI, backend development, and scalable systems  <br>📈 Always exploring ideas at the intersection of tech and business  <br><br>### 🔧 Tech Stack<br>- Python, FastAPI  <br>- Machine Learning basics  <br>- Git & GitHub  <br><br>### 📌 Goals<br>- Build impactful products, not just projects  <br>- Learn by doing and shipping consistently  <br><br>📫 Open to collaboration and learning opportunities
+## 👋 Hi, I'm Pranav<br><br>💻 Aspiring developer focused on building practical, real-world projects  <br>🚀 Currently working on projects like a Fake News Detection System  <br>🧠 Interested in AI, backend development, and scalable systems  <br>📈 Always exploring ideas at the intersection of tech and business  <br><br>🔧 Tech Stack<br>- Python, FastAPI  <br>- Machine Learning basics  <br>- Git & GitHub  <br><br>### 📌 Goals<br>- Build impactful products, not just projects  <br>- Learn by doing and shipping consistently  <br><br>📫 Open to collaboration and learning opportunities
 
 
 ## 🌐 Socials:
